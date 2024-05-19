@@ -1,0 +1,9 @@
+JavaScript
+TypeScript
+WebdriverIO
+Cucumber
+Playwright
+API testing
+CI/CD integration
+CSS selectors
+XPath locators
